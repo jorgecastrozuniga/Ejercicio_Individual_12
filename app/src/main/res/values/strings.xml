@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio_Individual_12</string>
+    <string name="titulo">Latin Food Appy</string>
+    <string name="ingresar">Ingrese Aquí</string>
+    <string name="titulo2">Platos Latinos</string>
+    <string name="mapa">Ver ubicación</string>
+    <string name="volver">Volver</string>
+
+
+</resources>
